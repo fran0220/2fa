@@ -47,7 +47,7 @@ Because botanical source, formulation and processing are not independently manip
 
 ## 3.1 Protein: Sample Selection (Almond Milk vs Soy Milk)
 
-Soy and almond milks are the most established plant-based milk alternatives and provide a meaningful protein contrast. Commercial soy milk typically contains 2.9–3.3 g protein per 100 mL, comparable to bovine milk, whereas almond milk generally supplies only 0.4–0.6 g per 100 mL (Jeske et al., 2017; Vanga & Raghavan, 2018). Because both beverages are manufactured through broadly similar operations, this difference likely reflects the raw material and formulation level rather than processing chemistry (Sethi et al., 2016). The pairing highlights a source-associated difference and is nutritionally relevant, since consumers replacing dairy with almond milk may unknowingly reduce protein intake (Vanga & Raghavan, 2018).
+Soy and almond milks are the most established milk alternatives and provide a meaningful protein contrast. Commercial soy milk typically contains 2.9–3.3 g protein per 100 mL, comparable to bovine milk, whereas almond milk generally supplies only 0.4–0.6 g per 100 mL (Jeske et al., 2017; Vanga & Raghavan, 2018). Because both beverages are manufactured through broadly similar operations, this difference likely reflects the raw material and formulation level rather than processing chemistry (Sethi et al., 2016). The pairing highlights a source-associated difference and is nutritionally relevant, since consumers replacing dairy with almond milk may unknowingly reduce protein intake (Vanga & Raghavan, 2018).
 
 ## 3.2 Protein: Methodological Justification (Bradford vs Biuret)
 
